@@ -1,2 +1,2 @@
-# introduction_julia
-Introdução à Julia | Loops e Condicionais
+# Introdução a linguagem Julia
+Como usar loops e condicionais em Julia.
