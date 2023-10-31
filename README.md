@@ -1,2 +1,1 @@
-# Introdução a linguagem Julia
-Como usar loops e condicionais em Julia.
+# Extração e análise de dados do FMI sobre o acesso feminino a serviços financeiros
