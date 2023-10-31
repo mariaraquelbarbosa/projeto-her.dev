@@ -58,7 +58,7 @@ function process_data(response)
 end
 
 function get_indicator(dataset::FMIDataset, frequency_list::Vector{String}, region_list::Vector{String}, indicator_list::Vector{String})
-    frequency, region, indicator = joiners(frequency_list, region_list, indicator_list)
+    frequency, region, indicator = joiner(frequency_list, region_list, indicator_list)
     response = fetch_data(dataset, frequency, region, indicator)
     df = process_data(response)
     return df
