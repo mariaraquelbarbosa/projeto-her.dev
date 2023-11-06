@@ -13,6 +13,7 @@
   <a href="https://github.com/emillymeneses">[![GitHub Badge](https://img.shields.io/badge/Emilly_Meneses-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/emillymeneses)
   <a href="https://github.com/geovannangf">[![GitHub Badge](https://img.shields.io/badge/Geovanna_Ferreira-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/geovannangf)
   <a href="https://github.com/WalleryO">[![GitHub Badge](https://img.shields.io/badge/Wallery_Gomes-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/WalleryO)
+  <a href="">[![GitHub Badge](https://img.shields.io/badge/Adrielle_Abreu-100000?style=for-the-badge&logo=GitHub&logoColor=white)]()
 
 
 </div>
