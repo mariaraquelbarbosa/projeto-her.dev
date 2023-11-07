@@ -6,12 +6,6 @@ O FEA.dev é uma entidade estudantil da FEA-USP que tem como objetivo conectar o
 ---
 
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-
-</div>
-
-<div align="center">
 
   **Participantes:** <a href="https://github.com/mariaraquelbarbosa">[![GitHub Badge](https://img.shields.io/badge/Maria_Raquel-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mariaraquelbarbosa)</a>
   <a href="https://github.com/Alice-ts">[![GitHub Badge](https://img.shields.io/badge/Alice_Saraiva-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Alice-ts)
