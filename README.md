@@ -76,7 +76,7 @@ df = get_indicator(base, frequency_list, region_list, indicator_list)
 println(df)
 ```
 
-## Exemplo de output
+Em ambos os casos, o output serio o seguinte:
 
 | Código do indicador | Localização | Período |   Valor |
 |---------------------|------------|--------|---------|
