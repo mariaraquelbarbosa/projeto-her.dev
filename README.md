@@ -6,6 +6,10 @@
 O FEA.dev é uma entidade estudantil da FEA-USP que tem como objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a campanha Her.dev, a qual ocorre anualmente no mês de outubro.
 
 
+# O Projeto 👩‍💻
+
+Esse projeto consiste na ***Extração e Análise de Dados do Fundo Monetário Internacional (FMI) sobre o Acesso Feminino a Serviços Financeiros*** na Argentina, nos Emirados Árabes, na Índia, no Brasil, na Angola e no Cabo Verde utilizando Python e Julia, com o objetivo de comparar esse dado em países com contextos históricos e culturais diferentes, como também comparar as duas linguagens de programação.
+
 <div align="center">
   
   <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -23,10 +27,6 @@ O FEA.dev é uma entidade estudantil da FEA-USP que tem como objetivo conectar o
 
 
 </div>
-
-# O Projeto
-
-Esse projeto consiste na ***Extração e Análise de Dados do Fundo Monetário Internacional (FMI) sobre o Acesso Feminino a Serviços Financeiros*** na Argentina, nos Emirados Árabes, na Índia, no Brasil, na Angola e no Cabo Verde utilizando Python e Julia, com o objetivo de comparar esse dado em países com contextos históricos e culturais diferentes, como também comparar as duas linguagens de programação.
 
 # Overview
 
