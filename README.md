@@ -29,7 +29,7 @@ Esse projeto consiste na ***Extração e Análise de Dados do Fundo Monetário I
 
 # Overview
 
-O `FMIDataset` é uma classe que permite acessar facilmente os dados das bases do FMI selecionando diferentes parâmetros, como frequências, regiões e indicadores desejados.
+O `FMIDataset` é uma classe que permite acessar facilmente os dados das bases do FMI selecionando diferentes parâmetros, como frequências regiões e indicadores desejados.
 
 ## Instalação
 
