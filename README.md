@@ -21,6 +21,8 @@ O FEA.dev é uma entidade estudantil da FEA-USP que tem como objetivo conectar o
 
 Esse projeto consiste na ***Extração e Análise de Dados do Fundo Monetário Internacional (FMI) sobre o Acesso Feminino a Serviços Financeiros*** na Argentina, nos Emirados Árabes, na Índia, no Brasil, na Angola e no Cabo Verde utilizando Python e Julia, com o objetivo de comparar esse dado em países com contextos históricos e culturais diferentes, como também introduzir a linguagem Julia na entidade e compará-la com Python.
 
+> Status: Concluído :heavy_check_mark:
+
 <br>
 
 # Overview
