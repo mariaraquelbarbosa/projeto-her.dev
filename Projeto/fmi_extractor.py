@@ -48,11 +48,3 @@ class FMIDataset:
         response = self.fetch_data(frequency, region, indicator)
         df = self.process_data(response)
         return df
-
-# Example usage
-base = FMIDataset('FAS')
-frequency_list = ["A"]
-region_list = ["AE"]
-indicator_list = ["FCROFNMFHF_NUM", "FCDODCHF_PE_NUM"]
-df = base.get_indicator(frequency_list, region_list, indicator_list)
-print(df)
