@@ -92,4 +92,4 @@ println(df)
 
 ## Análises
 
-Confira um resumo das nossas análises no nosso [Post do Instagram](https://www.instagram.com/p/CzFN9LmoKqs)!
+Confira um resumo das nossas análises no [Post do Instagram do FEA.dev](https://www.instagram.com/p/CzFN9LmoKqs)!
