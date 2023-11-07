@@ -92,10 +92,4 @@ println(df)
 
 ## Análises
 
-Confira um resumo das nossas análises no seguinte post do Instagram.
-
-<div align="center">
-  
-  <a [![Publicacao Her.dev](https://github.com/mariaraquelbarbosa/projeto-her.dev/assets/122839919/4f5277fa-1bc0-4d05-a924-e2f2976eebc9)](https://www.instagram.com/p/CzFN9LmoKqs/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)</a>
-
-</div>
+Confira um resumo das nossas análises no nosso [Post do Instagram](https://www.instagram.com/p/CzFN9LmoKqs)!
