@@ -21,12 +21,10 @@
 <p></p>
 
 # O FEA.dev e o Her.dev 🌹
-O FEA.dev é uma entidade estudantil da FEA-USP que tem por objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a campanha Her.dev. Ao longo dos anos, a iniciativa fez-se presente na Universidade através de séries de vídeos com relatos de profissionais, estudantes e professoras acerca de seus respectivos espaços de atuação, bem como palestras, projetos e conteúdos informativos acerca do importante papel da diversidade de gênero no mercado de trabalho e na academia.
+O FEA.dev é uma entidade estudantil da FEA-USP que tem por objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a campanha Her.dev.
 
 # O Projeto
 
 Esse projeto consiste na ***Extração e Análise de Dados do Fundo Monetário Internacional (FMI) sobre o Acesso Feminino a Serviços Financeiros*** na Argentina, nos Emirados Árabes, na Índia, no Brasil, na Angola e no Cabo Verde utilizando Python e Julia, com o objetivo de comparar esse dado em países com contextos históricos e culturais diferentes, como também comparar as duas linguagens de programação.
 
 # Overview
-
-
