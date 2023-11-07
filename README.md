@@ -1,7 +1,7 @@
 ![Her dev](https://github.com/mariaraquelbarbosa/Projeto-Her.dev-Julia-Python/assets/122839919/e55d28b8-5445-4f14-9359-73ff105ca412)
 
 # O FEA.dev e o Her.dev 🌹
-O FEA.dev é uma entidade estudantil da FEA-USP que tem como objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a campanha Her.dev, a qual ocorre anualmente no mês de outubro.
+O FEA.dev é uma entidade estudantil da FEA-USP que tem como objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a **Campanha Her.dev** , a qual ocorre anualmente no mês de outubro.
 
 ---
 
@@ -19,7 +19,7 @@ O FEA.dev é uma entidade estudantil da FEA-USP que tem como objetivo conectar o
 
 # O Projeto 👩‍💻
 
-Esse projeto consiste na ***Extração e Análise de Dados do Fundo Monetário Internacional (FMI) sobre o Acesso Feminino a Serviços Financeiros*** na Argentina, nos Emirados Árabes, na Índia, no Brasil, na Angola e no Cabo Verde utilizando Python e Julia, com o objetivo de comparar esse dado em países com contextos históricos e culturais diferentes, como também comparar as duas linguagens de programação.
+Esse projeto consiste na ***Extração e Análise de Dados do Fundo Monetário Internacional (FMI) sobre o Acesso Feminino a Serviços Financeiros*** na Argentina, nos Emirados Árabes, na Índia, no Brasil, na Angola e no Cabo Verde utilizando Python e Julia, com o objetivo de comparar esse dado em países com contextos históricos e culturais diferentes, como também introduzir a linguagem Julia na entidade e compará-la com Python.
 
 <br>
 
