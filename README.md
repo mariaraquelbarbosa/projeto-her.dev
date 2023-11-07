@@ -28,3 +28,57 @@ O FEA.dev é uma entidade estudantil da FEA-USP que tem por objetivo conectar os
 Esse projeto consiste na ***Extração e Análise de Dados do Fundo Monetário Internacional (FMI) sobre o Acesso Feminino a Serviços Financeiros*** na Argentina, nos Emirados Árabes, na Índia, no Brasil, na Angola e no Cabo Verde utilizando Python e Julia, com o objetivo de comparar esse dado em países com contextos históricos e culturais diferentes, como também comparar as duas linguagens de programação.
 
 # Overview
+
+O `FMIDataset` é uma classe que permite acessar facilmente os dados das bases do FMI selecionando diferentes parâmetros, como frequências, regiões e indicadores desejados.
+
+## Instalação
+
+Para utilizar a classe `FMIDataset`, siga estas etapas:
+
+1. Clone ou baixe este repositório para o seu sistema.
+```python
+git clone https://github.com/mariaraquelbarbosa/projeto-her.dev.git
+```
+
+2. Navegue até o diretório onde você clonou ou baixou o repositório.
+3. Por fim, importe a classe FMIDataset no seu projeto como um módulo local.
+```python
+from POO_extraction_FMI import FMIDataset
+```
+
+## Exemplo de uso
+
+A seguir, um exemplo de como usar a classe `FMIDataset` na linguagem Python:
+
+```python
+
+# Código da base de dados
+base = FMIDataset('FAS')
+
+# Frequência dos dados
+frequency_list = ["A"]
+
+# Sigla do país
+region_list = ["AE"]
+
+# Código dos indicadores
+indicator_list = ["FCROFNMFHF_NUM", "FCDODCHF_PE_NUM"]
+
+# Gerando o DataFrame
+df = base.get_indicator(frequency_list, region_list, indicator_list)
+print(df)
+```
+
+## Exemplo de output
+
+| Código do indicador | Localização | Período |   Valor |
+|---------------------|------------|--------|---------|
+| FCDODCHF_PE_NUM     | AE         |   2014 | 1,429,296|
+| FCDODCHF_PE_NUM     | AE         |   2015 | 1,066,752|
+| FCDODCHF_PE_NUM     | AE         |   2016 | 1,263,867|
+| FCDODCHF_PE_NUM     | AE         |   2017 | 1,381,932|
+| FCDODCHF_PE_NUM     | AE         |   2018 | 1,522,333|
+| FCDODCHF_PE_NUM     | AE         |   2019 | 1,467,851|
+| FCDODCHF_PE_NUM     | AE         |   2020 | 1,531,593|
+| FCDODCHF_PE_NUM     | AE         |   2021 | 1,640,526|
+| FCDODCHF_PE_NUM     | AE         |   2022 | 1,860,573|
