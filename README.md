@@ -21,7 +21,7 @@
 <p></p>
 
 # O FEA.dev e o Her.dev 🌹
-O FEA.dev é uma entidade estudantil da FEA-USP que tem por objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a campanha Her.dev.
+O FEA.dev é uma entidade estudantil da FEA-USP que tem por objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a campanha Her.dev, a qual ocorre anualmente no mês de outubro.
 
 # O Projeto
 
@@ -92,4 +92,4 @@ println(df)
 
 ## Análises
 
-Confira um resumo das nossas análises no nosso [Post do Instagram](https://www.instagram.com/p/CzFN9LmoKqs)!
+Confira um resumo das nossas análises no [Post do Instagram do FEA.dev](https://www.instagram.com/p/CzFN9LmoKqs)!
