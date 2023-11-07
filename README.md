@@ -42,7 +42,7 @@ Para utilizar a classe `FMIDataset`, siga estas etapas:
 ![Python Badge](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ```run(`git clone https://github.com/mariaraquelbarbosa/projeto-her.dev.git`)```
 
 2. Navegue até o diretório onde você clonou ou baixou o repositório.
-3. Por fim, importe a classe FMIDataset no seu projeto como um módulo local.
+3. Importe a classe FMIDataset no seu projeto como um módulo local.
 
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ```from POO_extraction_FMI import FMIDataset```
 
