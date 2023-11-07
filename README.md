@@ -36,15 +36,17 @@ O `FMIDataset` é uma classe que permite acessar facilmente os dados das bases d
 Para utilizar a classe `FMIDataset`, siga estas etapas:
 
 1. Clone ou baixe este repositório para o seu sistema.
-```python
-git clone https://github.com/mariaraquelbarbosa/projeto-her.dev.git
-```
+
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ```git clone https://github.com/mariaraquelbarbosa/projeto-her.dev.git```
+
+![Python Badge](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ```run(`git clone https://github.com/mariaraquelbarbosa/projeto-her.dev.git`)```
 
 2. Navegue até o diretório onde você clonou ou baixou o repositório.
 3. Por fim, importe a classe FMIDataset no seu projeto como um módulo local.
-```python
-from POO_extraction_FMI import FMIDataset
-```
+
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ```from POO_extraction_FMI import FMIDataset```
+
+![Python Badge](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ```include("julia-fmi-extractor.jl")```
 
 ## Exemplo de uso
 
@@ -52,21 +54,26 @@ A seguir, um exemplo de como usar a classe `FMIDataset` na linguagem Python:
 
 ```python
 
-# Código da base de dados
-base = FMIDataset('FAS')
-
-# Frequência dos dados
-frequency_list = ["A"]
-
-# Sigla do país
-region_list = ["AE"]
-
-# Código dos indicadores
-indicator_list = ["FCROFNMFHF_NUM", "FCDODCHF_PE_NUM"]
+base = FMIDataset("FAS")                                 # Código da base de dados
+frequency_list = ["A"]                                   # Frequência dos dados
+region_list = ["AE"]                                     # Sigla do país
+indicator_list = ["FCROFNMFHF_NUM", "FCDODCHF_PE_NUM"]   # Código dos indicadores
 
 # Gerando o DataFrame
 df = base.get_indicator(frequency_list, region_list, indicator_list)
 print(df)
+```
+
+E um exemplo de uso da mesma classe na linguagem Julia:
+```julia
+base = FMIDataset("FAS")                                 # Código da base de dados
+frequency_list = ["A"]                                   # Frequência dos dados
+region_list = ["AE"]                                     # Sigla do país
+indicator_list = ["FCROFNMFHF_NUM", "FCDODCHF_PE_NUM"]   # Código dos indicadores
+
+# Gerando o DataFrame
+df = get_indicator(base, frequency_list, region_list, indicator_list)
+println(df)
 ```
 
 ## Exemplo de output
