@@ -89,3 +89,7 @@ println(df)
 | FCDODCHF_PE_NUM     | AE         |   2020 | 1,531,593|
 | FCDODCHF_PE_NUM     | AE         |   2021 | 1,640,526|
 | FCDODCHF_PE_NUM     | AE         |   2022 | 1,860,573|
+
+## Análises
+
+Confira um resumo das nossas análises no nosso [Post do Instagram](https://www.instagram.com/p/CzFN9LmoKqs)!
