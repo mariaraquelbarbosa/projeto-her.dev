@@ -13,22 +13,20 @@
   <a href="https://github.com/emillymeneses">[![GitHub Badge](https://img.shields.io/badge/Emilly_Meneses-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/emillymeneses)
   <a href="https://github.com/geovannangf">[![GitHub Badge](https://img.shields.io/badge/Geovanna_Ferreira-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/geovannangf)
   <a href="https://github.com/WalleryO">[![GitHub Badge](https://img.shields.io/badge/Wallery_Gomes-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/WalleryO)
-  <a href="">[![GitHub Badge](https://img.shields.io/badge/Adrielle_Abreu-100000?style=for-the-badge&logo=GitHub&logoColor=white)]()
+  <a href="https://github.com/Adrielle123abreu">[![GitHub Badge](https://img.shields.io/badge/Adrielle_Abreu-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Adrielle123abreu)
 
 
 </div>
 
 <p></p>
 
+# O FEA.dev e o Her.dev 🌹
+O FEA.dev é uma entidade estudantil da FEA-USP que tem por objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a campanha Her.dev. Ao longo dos anos, a iniciativa fez-se presente na Universidade através de séries de vídeos com relatos de profissionais, estudantes e professoras acerca de seus respectivos espaços de atuação, bem como palestras, projetos e conteúdos informativos acerca do importante papel da diversidade de gênero no mercado de trabalho e na academia.
+
+# O Projeto
+
 Esse projeto consiste na ***Extração e Análise de Dados do Fundo Monetário Internacional (FMI) sobre o Acesso Feminino a Serviços Financeiros*** na Argentina, nos Emirados Árabes, na Índia, no Brasil, na Angola e no Cabo Verde utilizando Python e Julia, com o objetivo de comparar esse dado em países com contextos históricos e culturais diferentes, como também comparar as duas linguagens de programação.
 
-# O FEA.dev 💛
-O FEA.dev é uma entidade estudantil da FEA-USP que tem por objetivo conectar os estudantes ao estado da arte no que tange à intersecção do mundo dos negócios e o vasto universo da programação. Dentro da entidade, trabalhamos em grupos de estudos focados em diferentes aplicações de programação nas ciências sociais aplicadas.
-
-# O Her.dev 🌹
-Um dos grandes obstáculos aos valores promovidos pela entidade é, justamente, o gap de gênero na área de tecnologia e negócios. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a campanha Her.dev. Ao longo dos anos, a iniciativa fez-se presente na Universidade através de séries de vídeos com relatos de profissionais, estudantes e professoras acerca de seus respectivos espaços de atuação, bem como palestras, projetos e conteúdos informativos acerca do importante papel da diversidade de gênero no mercado de trabalho e na academia.
-
-# O Projeto 👩‍💻
-Uma das iniciativas da campanha Her.dev de 2023 foi o presente projeto, desenvolvido entre os meses de setembro e outubro por seis mulheres da entidade, em que, basicamente, buscamos analisar o acesso feminino a serviços financeiros em diferentes países a partir de técnicas como webscraping, programação orientada a objetos e visualização de dados, como também buscamos introduzir o uso da linguagem de programação Julia na entidade.
+# Overview
 
 
