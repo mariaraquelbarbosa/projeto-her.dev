@@ -1,7 +1,7 @@
 ![Her dev](https://github.com/mariaraquelbarbosa/Projeto-Her.dev-Julia-Python/assets/122839919/e55d28b8-5445-4f14-9359-73ff105ca412)
 
 # O FEA.dev e o Her.dev 🌹
-O [FEA.dev](https://github.com/fea-dev-usp) é uma entidade estudantil da FEA-USP que tem como objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a **Campanha Her.dev**, a qual ocorre anualmente no mês de outubro.
+O [FEA.dev](https://github.com/fea-dev-usp) é uma entidade estudantil da USP que tem como objetivo conectar os estudantes à intersecção entre o mundo dos negócios e o universo da programação. Um dos grandes obstáculos que enfrentamos aos valores promovidos pela entidade é o gap de gênero nesse contexto. Desse modo, a fim de discutir o problema e colocar as mulheres no centro do debate, o FEA.dev criou a **Campanha Her.dev**, a qual ocorre anualmente no mês de outubro.
 
 ---
 
